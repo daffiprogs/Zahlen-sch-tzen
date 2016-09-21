@@ -51,7 +51,7 @@ namespace Zahlen_schätzen
             // und das Programm verlässt die do-while-Schleife. Logischerweise ist
             // dann die folgende Bedingung erfüllt und das Wort "Richtig" erscheint.
             if (Eingabe == Zahl)
-                Console.WriteLine("Richtig!");
+                Console.WriteLine("Super... das war richtig!");
 
             // Diese Zeile bewirkt, dass das Programm anhält, bis eine Taste gedrückt wird.
             // Erst dann wird das Programm beendet und das Console-Fenster geschlossen.
